@@ -1,2 +1,5 @@
-# ERC20-Token-ICO-Staking
-Create your own ERC20 Token, Crowdsale, and Staking Implementation!
+# ERC20 Token with ICO Contract (Staking contract coming soon)
+
+August 1st - init repo creation
+Upload code for token & crowdsale by Aug 2nd
+Instructions by Aug 3rd.
