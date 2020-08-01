@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at Etherscan.io on 2020-06-12
-*/
-
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.6.0;
 abstract contract Context {
@@ -392,7 +388,6 @@ contract YOURTOKENNAME is ERC20Capped, ERC20Burnable, Roles, TokenRecover {
         ERC20Capped()
         ERC20()
     {
-        uint8 decimals = 18; //Most tokens have 18 decimal places
         uint256 initialSupply = 1000000000000000000000000000; //This is 1 billion tokens, with 18 0s
         bool transferEnabled = false; //enable or disale transfer starting off
         bool mintingFinished = false; //can any future tokens be minted?
