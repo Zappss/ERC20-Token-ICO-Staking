@@ -32,10 +32,10 @@ interface Token {
   function transfer(address _to, uint256 _value) external returns (bool);
   function balanceOf(address _owner) external view returns (uint256 balance);
 }
-contract YOURTOKENNAME-ICO is Ownable {
+contract YOURTOKENNAMEICO is Ownable {
   using SafeMath for uint256;
   Token token;
-  string public constant Info = "This is the official ICO contract for YOURTOKENNAME";
+  string public constant Info = "This is the official ICO contract for YOURTOKENNAME. Visit YOURTOKENNAME.com";
   uint256 public constant RATE = 125000; //number of tokens per ether
   uint256 public constant CAP = 500;  //Number of ether accepted until the sale ends
   uint256 public constant START = 1593707291; // July 2020
@@ -50,7 +50,7 @@ contract YOURTOKENNAME-ICO is Ownable {
     _;
   }
   constructor() public {
-      address _tokenAddr = CONTRACTADDRESSOFYOURTOKEN;
+      address _tokenAddr = CONTRACTADDRESSOFYOURTOKEN; //You must put the contract address of 'yourtoken.sol'
       token = Token(_tokenAddr);
   }
   function initialize() public onlyOwner { //Make sure you send the tokens specified above before calling this or it will fail!
