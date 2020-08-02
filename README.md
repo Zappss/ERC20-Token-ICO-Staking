@@ -27,3 +27,9 @@ ICO contract
 [buyTokens()](https://ropsten.etherscan.io/tx/0xba457cd3722a5bfd6d04e52934ea9e1b81a92a3707628fe33e42bdf21c426111)
 
 Ether from buyTokens transfered to contract owner.
+
+
+
+
+
+mythril audit?
