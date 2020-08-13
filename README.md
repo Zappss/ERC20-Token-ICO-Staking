@@ -11,6 +11,7 @@ yourtoken.sol - [Example contract deployed to Ropsten](https://ropsten.etherscan
 **Standard Functions:** 
 * .
 * .
+
 **Non-Standard Functions:**
 * [enableTransfer()](https://ropsten.etherscan.io/tx/0x3c002eae81d7101b67d0c323d64d60c6c0cb4bf7f1b2dbe87863bb92c88d07f0)
 * [mint(address to, uint256 value)](https://ropsten.etherscan.io/tx/0x789faaad923642a5842115612f618c57fc2f1f01486196d872a2ad7a70acc88b)
