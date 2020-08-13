@@ -9,7 +9,8 @@
 yourtoken.sol - [Example contract deployed to Ropsten](https://ropsten.etherscan.io/token/0x93903333a4162885f43cd186aefefc246ffa927a) - [Security Audit](#)
 
 **Standard Functions:** 
-
+* .
+* .
 **Non-Standard Functions:**
 * [enableTransfer()](https://ropsten.etherscan.io/tx/0x3c002eae81d7101b67d0c323d64d60c6c0cb4bf7f1b2dbe87863bb92c88d07f0)
 * [mint(address to, uint256 value)](https://ropsten.etherscan.io/tx/0x789faaad923642a5842115612f618c57fc2f1f01486196d872a2ad7a70acc88b)
@@ -22,7 +23,7 @@ yourtoken.sol - [Example contract deployed to Ropsten](https://ropsten.etherscan
 yourtokenICO.sol - [Example contract deployed to Ropsten](https://ropsten.etherscan.io/address/0x27db5fa7f9c5d9a2f9260316db4c004aef7cbefa#code) - [Security Audit](#)
 
 **Functions:** (Click for example transaction)
-
+* .
 * [initialize()](https://ropsten.etherscan.io/tx/0x79ae6bc7e626c7c940537946ca93efcc567bb5df61a44d889221d6741a91f309)
 * [buyTokens()](https://ropsten.etherscan.io/tx/0xba457cd3722a5bfd6d04e52934ea9e1b81a92a3707628fe33e42bdf21c426111)
 
