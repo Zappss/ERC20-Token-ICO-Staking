@@ -2,13 +2,15 @@
 
 * Instructions coming soon
 
+(Click for example transactions)
+
 # Base Token Contract
 
 yourtoken.sol - [Example contract deployed to Ropsten](https://ropsten.etherscan.io/token/0x93903333a4162885f43cd186aefefc246ffa927a) - [Security Audit](#)
 
-**Standard Functions:** (Click for example transaction)
+**Standard Functions:** 
 
-**Non-Standard Functions:** (Click for example transaction)
+**Non-Standard Functions:**
 * [enableTransfer()](https://ropsten.etherscan.io/tx/0x3c002eae81d7101b67d0c323d64d60c6c0cb4bf7f1b2dbe87863bb92c88d07f0)
 * [mint(address to, uint256 value)](https://ropsten.etherscan.io/tx/0x789faaad923642a5842115612f618c57fc2f1f01486196d872a2ad7a70acc88b)
 * [finishMinting()](https://ropsten.etherscan.io/tx/0x1c6affdf9883ee9196282aa86e53faf341fa40457a8005a9bc7d30f6af201075)
@@ -21,14 +23,7 @@ yourtokenICO.sol - [Example contract deployed to Ropsten](https://ropsten.ethers
 
 **Functions:** (Click for example transaction)
 
-[initialize()](https://ropsten.etherscan.io/tx/0x79ae6bc7e626c7c940537946ca93efcc567bb5df61a44d889221d6741a91f309)
-
-[buyTokens()](https://ropsten.etherscan.io/tx/0xba457cd3722a5bfd6d04e52934ea9e1b81a92a3707628fe33e42bdf21c426111)
+* [initialize()](https://ropsten.etherscan.io/tx/0x79ae6bc7e626c7c940537946ca93efcc567bb5df61a44d889221d6741a91f309)
+* [buyTokens()](https://ropsten.etherscan.io/tx/0xba457cd3722a5bfd6d04e52934ea9e1b81a92a3707628fe33e42bdf21c426111)
 
 Ether from buyTokens is transfered to contract owner in the token purchase transaction.
-
-
-
-
-
-mythril audit?
